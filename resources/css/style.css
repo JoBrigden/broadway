@@ -58,7 +58,7 @@ p {
   font-size: 11px;
 }
 
-.list2 {
+.list2 li {
   list-style-type: none;
   margin: 0;
   padding: 0;
