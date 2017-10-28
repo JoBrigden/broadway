@@ -13,16 +13,18 @@ h1 {
   color: white
 }
 
-.list li{
-    list-style-type: none;
-}
-
-a {
+li {
+  font-size: 18px;
   color: white;
 }
 
-li {
-  font-size: 18px;
+.list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+a {
   color: white;
 }
 
@@ -56,7 +58,7 @@ p {
   font-size: 11px;
 }
 
-.list2 li {
+.list2 {
   list-style-type: none;
   margin: 0;
   padding: 0;
